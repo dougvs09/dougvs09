@@ -1,6 +1,6 @@
 ### Bom dia, boa tarde, boa noite! ✌️
 
-- 🌱 Estudando JavaScript
+- 🌱 Estudando React
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
