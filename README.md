@@ -2,20 +2,18 @@
 
 - 🌱 Estudando o ecossistema React
 
-<div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=dougvs09&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dougvs09&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-<div align:"center">
-  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img align="center" alt="styled-components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
-  <img align="center" alt="vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"> 
-  <img align="center" alt="nextjs" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"> 
-</div>
-<div>
-  <img width="300px" height="300px" align="center" alt="luffy" src="https://cdn.discordapp.com/attachments/427230329095585792/899996710703603742/Foto_perfil_pc.gif">
-</div>
+<a href="https://github.com/rafaballerini">
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=dougvs09&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dougvs09&layout=compact&langs_count=7&theme=tokyonight"/>
+  
+### Ferramentas e Tecnologias
+  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+<img width="300px" height="300px" align="right" alt="luffy" src="https://cdn.discordapp.com/attachments/427230329095585792/899996710703603742/Foto_perfil_pc.gif">
