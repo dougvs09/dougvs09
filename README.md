@@ -1,8 +1,8 @@
 ### Bom dia, boa tarde, boa noite! ✌️
 
 - 🌱 Estudando o ecossistema React.
-- Amo estudar e sou muuuuito curioso.
-- Gosto muito de conversar sobre tecnologia, principalmente sobre programação.
+- ❤️ Amo estudar e sou muuuuito curioso.
+- 🗣️ Gosto muito de conversar sobre tecnologia, principalmente sobre programação.
 
 ### Minhas redes sociais: 
 - Linkedin: https://www.linkedin.com/in/douglasvalente09/
