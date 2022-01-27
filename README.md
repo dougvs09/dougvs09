@@ -12,7 +12,7 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=dougvs09&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dougvs09&layout=compact&langs_count=7&theme=tokyonight"/>
   
-### Ferramentas e Tecnologias
+### Tecnologias
   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
