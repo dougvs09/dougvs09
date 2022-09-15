@@ -1,10 +1,5 @@
 ### Bom dia, boa tarde, boa noite! ✌️
 
-- 🌱 Estudando o ecossistema React.
-- ❤️ Amo estudar e sou muuuuito curioso.
-- 🗣️ Gosto muito de conversar sobre tecnologia, principalmente sobre programação.
-- 🧑‍💻 Estou sempre colocando novos projetinhos legais aqui!!
-
 ### Minhas redes sociais: 
 - Linkedin: https://www.linkedin.com/in/douglasvalente09/
 - Instagram: https://www.instagram.com/doga_vsantos/
