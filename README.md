@@ -2,7 +2,7 @@
 
 ### Minhas redes sociais: 
 - Linkedin: https://www.linkedin.com/in/douglasvalente09/
-- Instagram: https://www.instagram.com/doga_vsantos/
+- Instagram: https://www.instagram.com/dougvs._
   
 ### Tecnologias
   
